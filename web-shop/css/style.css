@@ -1,0 +1,5 @@
+.auto-height-iframe. {border: none; width: 100%; margin: 0;}
+body {background: rgb(0,199,254);
+    background: radial-gradient(circle, rgba(0,199,254,1) 0%, rgba(35,35,35,1) 100%); text-align: center; color:white}
+table {background-color: lightblue; color: blue;}
+h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
