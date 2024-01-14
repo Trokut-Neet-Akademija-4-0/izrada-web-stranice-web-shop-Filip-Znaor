@@ -1,7 +1,9 @@
-body {background: rgb(5,108,236);
-    background: linear-gradient(90deg, rgba(5,108,236,1) 0%, rgba(2,201,255,1) 100%);
+body {background-image: url(head.jpg); background-repeat: no-repeat; background-size: 1700px;
 font-family: Edo; src: url(partials\Edo_SZ_Font_Family_(Fontmirror)\Edo SZ 400.ttf);}
+
 div {position: absolute;
     top: 50%;
     left: 57%;
     transform: translate(-50%, -50%);}
+
+input, button {background: lightblue;}

@@ -1,2 +1,4 @@
-body {background: rgb(0,199,254);
-    background: linear-gradient(98deg, rgba(0,199,254,1) 0%, rgba(0,122,204,1) 100%);}
+body {background-image: url(head.jpg); background-repeat: no-repeat; background-size: 1700px;
+    font-family: Edo; src: url(partials\Edo_SZ_Font_Family_(Fontmirror)\Edo SZ 400.ttf); text-align: center;}
+table {background-color: lightblue; color: blue;}
+:any-link {text-decoration: none;}
