@@ -11,3 +11,5 @@ h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; co
     background: radial-gradient(circle, rgba(0,199,254,1) 0%, rgba(35,35,35,1) 100%);}
 .secondary-bg-color {background: black;}
 :any-link {text-decoration: none;}
+img:hover {background-color: blue;}
+:visited {color: blue;}
