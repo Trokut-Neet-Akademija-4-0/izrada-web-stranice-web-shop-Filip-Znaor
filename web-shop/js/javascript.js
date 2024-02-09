@@ -7,8 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
             var height = object.offsetHeight;
             frameBody.style.margin = 0;
             iframe.style.height = height + 'px';
+            scrolling="no"
         };
     }
     var iframes = document.querySelectorAll('.auto-height-iframe');
     iframes.forEach(adjustIframeHeight);
+
 });
